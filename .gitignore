@@ -1,0 +1,7 @@
+resources/
+**/data/
+**/datasets/
+**/model/
+**/models/
+**/flagged/
+**/runs/
